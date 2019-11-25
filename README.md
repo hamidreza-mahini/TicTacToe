@@ -5,13 +5,8 @@ Tic Tac Toe is a known, exciting game. I believe that this game is proper as a c
 Please let me know if I have to provide any other information and I will be more than happy to help you with.
 
 Hamidreza Mahini
-
 Assistant Professor
-
-Department of Computer Engineering
-
+Department of Computer Engineering,
 Gorgan branch, Islamic Azad University
-
 Gorgan, Iran
-
 hamidreza.mahini[at]gmail.com
