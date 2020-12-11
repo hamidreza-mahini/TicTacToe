@@ -44,7 +44,8 @@
 }
 #sContact{
     display: inline-block;
-    text-align: left;
+    font-size:large;
+	text-align: left;
     border: 1px solid silver;
     border-radius: 5px;
     padding: 2px;
